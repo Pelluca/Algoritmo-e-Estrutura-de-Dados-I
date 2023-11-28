@@ -1,1 +1,1 @@
-# Pr-tica-Algoritmo
+# Pratica-Algoritmo
