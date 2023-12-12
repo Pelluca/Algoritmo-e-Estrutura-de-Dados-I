@@ -13,5 +13,5 @@ a) Advertência.
 b) Ele emite essa mensagem pois o ponteiro p está recebendo x e não o &x.
 c) Não.
 d) Trecho modificado.
-f) Sim.
+e) Sim.
 */
