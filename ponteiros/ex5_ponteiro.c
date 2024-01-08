@@ -8,7 +8,7 @@ int main(void){
     if(vetor == NULL){
         exit(1);
     } else {
-        printf("Alocacao realizada com sucesso");
+        printf("Alocacao realizada com sucesso\n");
     }
 
     printf("Digite os valores do vetor\n");
